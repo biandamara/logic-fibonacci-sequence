@@ -1,3 +1,10 @@
 # Fibonacci Sequence
 
-The Fibonacci sequence is a set of integers (the Fibonacci numbers) that starts with a zero, followed by a one, then by another one, and then by a series of steadily increasing numbers.
+Deret angka Fibonacci adalah deret angka yang diperoleh dengan menjumlahkan dua angka sebelumnya. <br>
+Contoh: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55…
+
+Kita dapat menggunakan rumus berikut untuk menghitung nilai angka dari deret ini:
+
+$$
+Fn + 1 = Fn – 1 + Fn
+$$
